@@ -36,8 +36,8 @@ Los usuarios deben ser capaces de:
 
 ### Enlaces
 
-- URL de la solución (Frontend Mentor): [Solución en Frontend Mentor](https://www.frontendmentor.io/solutions/3columnpreviewcard-gA8b6r6yw6)
-- URL del sitio en vivo: [En vivo](https://boudgnosis.github.io/3-column-preview-card/)
+- URL de la solución (Frontend Mentor): [Solución en Frontend Mentor](https://www.frontendmentor.io/solutions/accessibility-flexbox-responsivedesign-loadinghtml-WRjKLS4kEJ)
+- URL del sitio en vivo: [En vivo](https://boudgnosis.github.io/Clipboard-landing-page/)
 
 ## Mi Proceso
 
@@ -58,7 +58,7 @@ Mi interés por ver como optimizar aunque sea un poco la página me llevo a cono
 cargar las imágenes según sea tu interés, hay tres posibilidades, **eager**: te carga la imagen de forma prioritaria, **lazy**: cuando se espera que cargue de forma diferida y **auto** que es cuando el navegador determina cuál es la mejor opción.
 
 ```html
-			<img src="./assets/icons/logo.svg" loading="eager" alt="Logo de clipboard" title="clipboard">
+<img src="./assets/icons/logo.svg" loading="eager" alt="Logo de clipboard" title="clipboard">
 ```
 
 ### Recursos útiles
